@@ -1,5 +1,5 @@
 cd Java_sample_app/SpringMVCSecurityXML/ 
-
+touch 111
 #Building the application
 mvn clean install >> f1.txt
 

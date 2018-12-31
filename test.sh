@@ -1,4 +1,4 @@
-#ssh -T ggk@54.244.209.186
+#ssh -T 
 #checking fot tomcat8 installation
 service tomcat8 status | grep "loaded" > f1.txt
 if [ -s f1.txt ]
